@@ -1,0 +1,17 @@
+C:\Users\Fırat\source\repos\OgrenciBilgiSistemi\OgrenciBilgiSistemi\bin\Debug\OgrenciBilgiSistemi.exe.config
+C:\Users\Fırat\source\repos\OgrenciBilgiSistemi\OgrenciBilgiSistemi\bin\Debug\OgrenciBilgiSistemi.exe
+C:\Users\Fırat\source\repos\OgrenciBilgiSistemi\OgrenciBilgiSistemi\bin\Debug\OgrenciBilgiSistemi.pdb
+C:\Users\Fırat\source\repos\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.csproj.AssemblyReference.cache
+C:\Users\Fırat\source\repos\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.Properties.Resources.resources
+C:\Users\Fırat\source\repos\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.csproj.GenerateResource.cache
+C:\Users\Fırat\source\repos\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.csproj.CoreCompileInputs.cache
+C:\Users\Fırat\source\repos\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.exe
+C:\Users\Fırat\source\repos\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.pdb
+C:\Users\Fırat\source\repos\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.Yedek.resources
+C:\Users\Fırat\source\repos\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.OgrenciYonetim.resources
+C:\Users\Fırat\source\repos\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.AkademisyenGiris.resources
+C:\Users\Fırat\source\repos\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.DersListele.resources
+C:\Users\Fırat\source\repos\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.NotEkleme.resources
+C:\Users\Fırat\source\repos\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.GirisSayfasi.resources
+C:\Users\Fırat\source\repos\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.OgrenciGiris.resources
+C:\Users\Fırat\source\repos\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.OgrenciSayfa.resources
